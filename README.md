@@ -1,6 +1,5 @@
 Movie-Recommendation-System
 
-
 A sophisticated content-based movie recommendation engine built with Python, Gradio, and the TMDB API. This system suggests films similar to user input based on genres, director, cast, keywords, and plot similarities.
 
 ✨ Features
